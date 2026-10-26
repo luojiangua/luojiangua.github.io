@@ -1,34 +1,40 @@
 ---
 layout: about
 title: about
+nav: true
+nav_order: 1
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+subtitle: "Connected and Automated Vehicles · Intelligent Vehicle Control · Energy and Emissions Optimization"
+profile: false
+news: false
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Luo Jiang**, a researcher and engineer working at the intersection of **connected and automated vehicles**, **intelligent control**, and **energy-efficient transportation**. I received my **Ph.D. in Mechanical Engineering from the University of Alberta** in 2026, where I conducted research in the Energy Mechatronics Laboratory under the supervision of **Prof. Mahdi Shahbakhti**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My doctoral research investigated cooperative control of heavy-duty truck platoons, with particular emphasis on **model predictive control (MPC)**, longitudinal–lateral coordination, fuel-consumption reduction, and NO<sub>x</sub> emissions minimization. My research was informed by measurements from on-road cooperative truck platooning trials on Canadian highways. I currently work on motion planning and control algorithms for automated commercial vehicles.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in bridging theory and real-world implementation: from vehicle and powertrain modeling, robust and predictive control, and multi-vehicle coordination to deployment-oriented evaluation.
+
+## Research interests
+
+- **Connected and automated vehicles:** cooperative truck and bus platooning, multi-vehicle coordination, and vehicle interaction.
+- **Intelligent vehicle control:** model predictive control, longitudinal and lateral motion control, robust control under uncertainty.
+- **Energy and emissions optimization:** energy-efficient driving, powertrain-aware control, fuel and hydrogen use, and NO<sub>x</sub> emissions.
+- **Autonomous driving:** motion planning, trajectory optimization, and safe operation of commercial vehicles.
+
+## Education
+
+- **Ph.D., Mechanical Engineering**, University of Alberta, Canada, 2026. Supervisor: Prof. Mahdi Shahbakhti.
+- **Undergraduate studies**, Southwest University, China, 2013–2017.
+
+## Selected academic highlights
+
+- Research on cooperative heavy-duty truck platooning using measured data from Canadian highway trials.
+- Journal publications covering on-road winter driving trials, large-spacing truck platooning, and coordinated longitudinal–lateral control.
+- Recipient of the Alberta Graduate Excellence Scholarship (2024).
+
+**Explore:** [Research](/research/) · [Publications](/publications/) · [Projects](/projects/) · [CV](/cv/)
+
+<!-- Add your preferred academic email, professional portrait, and verified external profiles before publishing. -->

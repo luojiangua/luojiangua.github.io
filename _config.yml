@@ -2,24 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Luo Jiang
-first_name: Luo
-middle_name:
-last_name: Jiang
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: >
-  Personal academic website of Dr. Luo Jiang.
-  Research interests include connected and automated vehicles,
-  cooperative truck platooning, intelligent vehicle control,
-  and energy and emissions optimization.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+title: "Luo Jiang | Academic Website"
+first_name: "Luo"
+middle_name: ""
+last_name: "Jiang"
+contact_note: "See the Contact page for public research profiles."
+description: "Research in connected and automated vehicles, intelligent vehicle control, cooperative platooning, and energy and emissions optimization."
+footer_text: "Built with Jekyll and al-folio. Hosted on GitHub Pages."
+keywords: "Luo Jiang, vehicle platooning, autonomous vehicles, MPC, energy and emissions optimization"
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "🚚"
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: "https://luojiangua.github.io"
