@@ -5,7 +5,11 @@ nav: true
 nav_order: 1
 permalink: /
 subtitle: "Connected and Automated Vehicles · Intelligent Vehicle Control · Energy and Emissions Optimization"
-profile: false
+profile:
+  align: right
+  image: luojiang.jpg
+  image_circular: false
+  more_info:
 news: false
 selected_papers: true
 social: true
